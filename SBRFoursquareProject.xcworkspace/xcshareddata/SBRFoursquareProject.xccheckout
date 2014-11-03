@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BE88A4CE-B6C8-4326-896C-98ED22EB4A8D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SBRFoursquareProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF4D5B4C7C336A4B593144BDE905667077946BED</key>
+		<string>github.com:reddysuma81/Flatiron-Foursquare-Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SBRFoursquareProject.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF4D5B4C7C336A4B593144BDE905667077946BED</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:reddysuma81/Flatiron-Foursquare-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF4D5B4C7C336A4B593144BDE905667077946BED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF4D5B4C7C336A4B593144BDE905667077946BED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Flatiron-Foursquare-Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>
